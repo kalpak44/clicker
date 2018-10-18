@@ -34,6 +34,6 @@ public class ScheduleServiceImpl implements ScheduleService {
     @Override
     public ScheduledFuture<?> schedule(Runnable command, long delay, TimeUnit unit) {
         logger.info("Execution Time - {}", dateTimeFormatter.format(LocalDateTime.now()));
-        return executor.schedule(command, delay, TimeUnit.SECONDS);
+        return executor.schedule(command, delay, unit);
     }
 }
