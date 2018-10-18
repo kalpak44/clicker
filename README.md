@@ -1,6 +1,7 @@
 # HtmlUnit tests from web interface with scheduling tasks
 
-## Spring Security, Spring Boot, Spring Data JPA, HSQL, JSP, HtmlUnit
+## Stack of using technologies
+Spring Security, Spring Boot, Spring Data JPA, HSQL, JSP, HtmlUnit
 
 
 ## Prerequisites
