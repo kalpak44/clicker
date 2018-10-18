@@ -1,7 +1,7 @@
 # HtmlUnit tests from web interface with scheduling tasks
 
 ## Prerequisites
-- JDK 1.7 or later
+- JDK 1.8 or later
 - Maven 3 or later
 
 ## Stack
