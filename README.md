@@ -1,4 +1,6 @@
-# Registration and Login Example with Spring Security, Spring Boot, Spring Data JPA, HSQL, JSP
+# HtmlUnit tests from web interface with scheduling tasks
+
+## Spring Security, Spring Boot, Spring Data JPA, HSQL, JSP, HtmlUnit
 
 
 ## Prerequisites
